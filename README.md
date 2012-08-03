@@ -1,0 +1,4 @@
+Przyslowia
+==========
+
+Show adages
